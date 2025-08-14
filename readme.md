@@ -1,15 +1,13 @@
 📝 To-Do Task Manager
 A minimal yet stylish app to keep your day in check — because even your procrastination deserves structure.
 
-Deployed Link - [text]()
+Deployed Link - [Click here to dee the website](https://to-do-application-one-theta.vercel.app/)
 
 📸 Sneak Peek - ![alt text](image.png)
 
 ✨ Features
 
     Add tasks instantly — Type, hit enter, done.
-
-    Pending & Completed lists — Clear separation between “I’ll do it later” and “Look at me being productive.”
 
     One-click completion — Mark tasks as done with a satisfying click.
 
