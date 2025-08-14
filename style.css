@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  justify-content: space-between;
+  width: 850px;
+}
+
+.liButtons {
+  display: flex;
+  gap: 20px;
+}
+
+.inputTask {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.form-control {
+  width: 500px;
+}
+
+.listItems,
+.completedItems {
+  display: flex;
+  justify-content: flex-start;
+}
+
+@media (max-width: 1024px) {
+  li {
+    width: 700px;
+  }
+  .form-control {
+    width: 400px;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+  li {
+    width: 100%;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .form-control {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .inputTask {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+  .liButtons {
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+}
