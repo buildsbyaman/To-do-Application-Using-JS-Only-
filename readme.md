@@ -1,9 +1,10 @@
 📝 To-Do Task Manager
 A minimal yet stylish app to keep your day in check — because even your procrastination deserves structure.
 
-Deployed Link - [Click here to dee the website](https://to-do-application-one-theta.vercel.app/)
+Deployed Link - [Visit the website](https://buildsbyaman-todojs.vercel.app/)
 
-📸 Sneak Peek - ![alt text](image.png)
+📸 Sneak Peek - 
+![alt text](image.png)
 
 ✨ Features
 
