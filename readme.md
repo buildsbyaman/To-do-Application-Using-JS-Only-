@@ -1,5 +1,4 @@
-# 📝 To-Do Task Manager
-
+# 📝 To-Do List
 A minimal yet stylish app to keep your day in check — because even your procrastination deserves structure.
 
 Deployed Link - [Visit the website](https://buildsbyaman-todojs.vercel.app/)
