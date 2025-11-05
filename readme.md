@@ -1,4 +1,5 @@
-📝 To-Do Task Manager
+# 📝 To-Do Task Manager
+
 A minimal yet stylish app to keep your day in check — because even your procrastination deserves structure.
 
 Deployed Link - [Visit the website](https://buildsbyaman-todojs.vercel.app/)
@@ -15,13 +16,3 @@ Deployed Link - [Visit the website](https://buildsbyaman-todojs.vercel.app/)
     Delete on demand — Because some tasks were mistakes to begin with.
 
     Responsive design — Works as smoothly on your phone as it does on your big fancy monitor.
-
-🎯 Why You’ll Love It
-
-    This isn’t just a to-do list — it’s your personal accountability buddy that:
-
-    Keeps your unfinished work glaring at you in the pending list.
-
-    Gives you a dopamine hit with that “Already Completed” badge.
-
-    Lets you feel in control of your chaos.
